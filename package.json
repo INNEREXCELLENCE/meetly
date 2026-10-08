@@ -1,0 +1,8 @@
+{
+  "name":"meetly-live",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Meetly - shared scheduling service",
+  "scripts":{"start":"node server.js"},
+  "engines":{"node":">=18"}
+}
